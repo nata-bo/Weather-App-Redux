@@ -1,0 +1,23 @@
+
+.textinput {
+  background-color:aliceblue;
+  border: none;
+  border-radius: 10px;
+  margin: 25px 25px;
+  padding: 20px;
+  font-size: larger;
+}
+
+.get_weather{
+  background-color:rgba(237, 220, 23, 0.819);
+  color: rgb(44, 8, 122);
+  border: none;
+  border-radius: 10px;
+  margin: 25px 25px;
+  padding: 20px;
+  font-size: larger;
+  font-family: sans-serif;
+}
+.get_weather:hover {
+  color: rgba(15, 149, 227, 0.877);
+}
